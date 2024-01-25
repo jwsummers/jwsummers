@@ -10,7 +10,8 @@
 
 * [So You Want To Be A SOC Analyst](https://github.com/jwsummers/SOC-Analyst-Enviornment/tree/main)
 Technologies Used:
-  + VirtulBox Windows and Linux Virtual Machines
+  + VirtulBox 
+  + Linux
   + LimaCharlie SecOps Cloud EDR Platform
   + Sliver Adversary Emulation Framework
   + Yara Rules
@@ -20,12 +21,23 @@ Technologies Used:
 Technologies Used:
   + Elastic SIEM
   + Kali Linux
+  + VirtualBox
+
+---
+### Software Development Projects
+
+* [Tire Calculator Web Application](https://github.com/jwsummers/Tire-Calculator)
+Technologies Used:
+  + HTML
+  + CSS
+  + Javascript
+  + Netlify
 
 ---
 ## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jason-w-summers/)
 
-
+I am currently working towards a career change from the automotive industry into a role as a Cybersecurity Analyst. 
 
 <!--
 **jwsummers/jwsummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
