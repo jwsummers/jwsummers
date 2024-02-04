@@ -23,6 +23,10 @@ Technologies Used:
   + Kali Linux
   + VirtualBox
 
+* [Python Algorithms for File Permission Updates](https://github.com/jwsummers/Python-Algorithms)
+Technologies Used:
+  + Python
+
 ---
 ### Software Development Projects
 
