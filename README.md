@@ -5,10 +5,11 @@
 
 * [Google Cybersecurity Professional Certificate](https://github.com/jwsummers/Google-Cybersecurity-Professional-Certificate)
 * CompTIA Security+ Expected February 2024
+* [TryHackMe Introduction to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FKDGN6E1IC.png)
 
 ### Cybersecurity Projects
 
-* [So You Want To Be A SOC Analyst](https://github.com/jwsummers/SOC-Analyst-Enviornment/tree/main)
+* [Cybersecurity Simulation and Automation Project](https://github.com/jwsummers/SOC-Analyst-Enviornment/tree/main)
 Technologies Used:
   + VirtulBox 
   + Linux
@@ -27,6 +28,11 @@ Technologies Used:
 Technologies Used:
   + Python
 
+* [Python Key Logger](https://github.com/jwsummers/KeyLogger)
+Technologies Used:
+  + Python
+  + Keyboard library
+  
 ---
 ### Software Development Projects
 
