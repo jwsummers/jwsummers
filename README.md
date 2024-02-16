@@ -1,13 +1,45 @@
 ## Hi there 👋 my name is Jason Summers
 ## Cybersecurity Professional and Software Developer
 
-### Certifications
+<a href="https://www.linkedin.com/in/jason-w-summers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-* [Google Cybersecurity Professional Certificate](https://github.com/jwsummers/Google-Cybersecurity-Professional-Certificate)
-* CompTIA Security+ Expected February 2024
-* [TryHackMe Introduction to Cybersecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FKDGN6E1IC.png)
+Passionate about the field of Cybersecurity and dedicated to solving complex problems. My journey in Computer Science has led me to delve into full-stack web development, where I built functional web applications. However, I eventually discovered my true passion lies in security. I am now eager to transition into a Security Operations Center (SOC) Analyst role.
 
-### Cybersecurity Projects
+---
+
+## Certifications
+
+* <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue?&style=for-the-badge&logo=Google&logoColor=white" />
+* <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Scheduled and Expected February 22
+* <img src="https://img.shields.io/badge/-TryHackMe%20Introduction%20to%20Cybersecurity-blue?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+
+---
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-LimaCharlie.io-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+---
+
+## Cybersecurity Projects
 
 * [Cybersecurity Simulation and Automation Project](https://github.com/jwsummers/SOC-Analyst-Enviornment/tree/main)
 Technologies Used:
@@ -44,10 +76,7 @@ Technologies Used:
   + Netlify
 
 ---
-## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/jason-w-summers/)
 
-I am currently working towards a career change from the automotive industry into a role as a Cybersecurity Analyst. 
 
 <!--
 **jwsummers/jwsummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
