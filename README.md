@@ -10,7 +10,7 @@ Passionate about the field of Cybersecurity and dedicated to solving complex pro
 ## Certifications
 
 * <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue?&style=for-the-badge&logo=Google&logoColor=white" />
-* <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Scheduled and Expected February 22
+* <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 * <img src="https://img.shields.io/badge/-TryHackMe%20Introduction%20to%20Cybersecurity-blue?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 ---
