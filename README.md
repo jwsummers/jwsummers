@@ -12,7 +12,8 @@ Passionate about the field of Cybersecurity and dedicated to solving complex pro
 
 * <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue?&style=for-the-badge&logo=Google&logoColor=white" />
 * <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-* <img src="https://img.shields.io/badge/-TryHackMe%20Introduction%20to%20Cybersecurity-blue?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+* <img src="https://img.shields.io/badge/-TryHackMe%20Introduction%20to%20Cybersecurity-yellow?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+* <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20LVL%201-yellow?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 
 ---
 
