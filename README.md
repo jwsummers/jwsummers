@@ -1,9 +1,10 @@
 ## Hi there 👋 my name is Jason Summers
 ## Cybersecurity Professional and Software Developer
+https://jasonwsummers.com/
 
 <a href="https://www.linkedin.com/in/jason-w-summers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate about the field of Cybersecurity and dedicated to solving complex problems. My journey in Computer Science has led me to delve into full-stack web development, where I built functional web applications. However, I eventually discovered my true passion lies in security. I am now eager to transition into a Security Operations Center (SOC) Analyst role.
+Passionate about the field of Cybersecurity and dedicated to solving complex problems. My journey in Computer Science has led me to delve into full-stack web development, where I built functional web applications. However, I eventually discovered my true passion lies in security. I am now eager to transition into a Security Operations Center (SOC) Analyst or Application Security role.
 
 ---
 
@@ -74,6 +75,16 @@ Technologies Used:
   + CSS
   + Javascript
   + Netlify
+
+* [Personal Portfolio | Resume website](https://github.com/jwsummers/portfolio)
+Technologies Used:
+  + HTML
+  + CSS
+  + SASS
+  + Bootstrap
+  + Gulp
+  + NodeJS
+  + NPM
 
 ---
 
