@@ -57,40 +57,89 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
 
 ### Software Development Projects
 
-* [Mobile Mechanic Business Website - MACE](https://github.com/jwsummers/mace)
+[M.A.C.E. | My Auto Care Expert -- Business Website](https://github.com/jwsummers/mace)  
+[MyAutoCareExpert](https://macemobilemechanic.netlify.app/)
 
-Purpose:
-    Empower a small business by providing them with a modern, user-friendly platform to increase customer reach, enhance marketing efforts, and streamline appointment scheduling.
+#### Purpose:
+Empower a small business by providing them with a modern, user-friendly platform to increase customer reach, enhance marketing efforts, and streamline appointment scheduling.
 
-+ Designed with responsive layouts to ensure an optimal experience across all devices.
-Integrated SEO best practices to improve search engine visibility and attract more visitors.
++ Responsive Design: Created responsive layouts to ensure an optimal experience across all devices.
++ SEO Integration: Applied SEO best practices to improve search engine visibility and attract more visitors.
++ Customizable Content: Developed sections to highlight services, promotions, and business updates.
++ Social Media Integration: Connected with customers and expanded online presence through social media links.
++ Contact Forms: Implemented easy-to-use contact forms to facilitate customer inquiries and feedback.
 
-+ Customizable content sections to highlight services, promotions, and business updates.
-Social media integration to connect with customers and expand your online presence.
-
-+ Clear and concise pricing tables to inform customers about available services and products.
-Flexible pricing options and discounts to cater to diverse customer needs.
-
-+ Easy-to-use contact forms to facilitate customer inquiries and feedback.
-Integrated appointment scheduling system to allow customers to book services directly from the website.
-
-Technologies Used:
+#### Technologies Used:
 + HTML
 + CSS
 + JavaScript
 + Netlify
 + NPM
 
-* [Tire Calculator Web Application](https://github.com/jwsummers/Tire-Calculator)
-Technologies Used:
+[Cook-E | Online Recipe Book]
+
+#### Purpose: 
+Provide users with a secure and user-friendly platform to enter, save, and manage their recipes, ensuring their data is safely stored and easily accessible.
+
++ Secure Login: Implemented secure login functionality using bcrypt to protect user accounts.
++ Recipe Management: Enabled users to add, save, and view recipes with a seamless interface.
++ Data Security: Recipes are securely stored in a PostgreSQL database, ensuring data integrity and privacy.
++ Frontend Development: Built using React and TypeScript for a robust and responsive user experience.
++ Backend Development: Utilized Node.js and Express for efficient server-side operations and API management.
+
+#### Technologies Used:
++ React
++ TypeScript
++ bcrypt
++ Node.js
++ Express
++ PostgreSQL
+
+[Technician Repair Order Management System](https://github.com/jwsummers/labor-tracker)  
+[ROtracker](https://labortracker.netlify.app/)
+
+#### Purpose: 
+Facilitate technicians at an automotive shop to input and save repair orders, track vehicle history, and calculate flat rate commission hours.
+
++ Order Input: Developed functionality for technicians to enter and save repair orders.
++ Vehicle History: Enabled tracking of vehicle repair history for better management and service.
++ Commission Calculation: Integrated features to track and calculate flat rate commission hours for technicians.
++ Deployment: Deployed on Netlify for reliable and accessible service.
+
+#### Technologies Used:
++ HTML
++ CSS
++ JavaScript
++ Netlify
+
+[Tire Calculator Web Application](https://github.com/jwsummers/Tire-Calculator)  
+[T.R.E.D.](https://tred.netlify.app/)
+
+#### Purpose:
+A web application that compares aftermarket and OEM tire sizes and calculates differences in ratios, aiding in the decision to keep or replace tires based on company standards.
+
++ Comparison Tool: Developed functionality to compare tire sizes and calculate differences.
++ Decision Support: Incorporated company standards to assist in making informed decisions on tire replacements.
+
+#### Technologies Used:
   + HTML
   + CSS
   + Javascript
   + Netlify
   + NPM
 
-* [Personal Portfolio | Resume website](https://github.com/jwsummers/portfolio)
-Technologies Used:
+[Personal Portfolio | Resume website](https://github.com/jwsummers/portfolio)  
+[JasonWSummers.com](https://jasonwsummers.com/)
+
+#### Purpose: 
+Showcase personal skills, projects, and professional experience through a well-organized and visually appealing online portfolio.
+
++ Responsive Design: Ensured the website is accessible and looks great on all devices.
++ Custom Styles: Used SASS and Bootstrap for efficient and customizable styling.
++ Task Automation: Leveraged Gulp for task automation, streamlining the development process.
++ NodeJS Integration: Integrated NodeJS for enhanced functionality and backend support.
+
+#### Technologies Used:
   + HTML
   + CSS
   + SASS
