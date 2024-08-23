@@ -29,8 +29,10 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
     <img src="https://img.shields.io/badge/-NodeJS | ExpressJS-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Gulp | Webpack-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React | Vue-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NPM-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NextJS-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Tailwind-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
 </div>
 
 ### Network
@@ -58,7 +60,7 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
 ### Software Development Projects
 
 [M.A.C.E. | My Auto Care Expert -- Business Website](https://github.com/jwsummers/mace)  
-[MyAutoCareExpert](https://macemobilemechanic.netlify.app/)
+[MyAutoCareExpert](https://myautocareexpert.com/)
 
 #### Purpose:
 Empower a small business by providing them with a modern, user-friendly platform to increase customer reach, enhance marketing efforts, and streamline appointment scheduling.
@@ -135,18 +137,19 @@ A web application that compares aftermarket and OEM tire sizes and calculates di
 Showcase personal skills, projects, and professional experience through a well-organized and visually appealing online portfolio.
 
 + Responsive Design: Ensured the website is accessible and looks great on all devices.
-+ Custom Styles: Used SASS and Bootstrap for efficient and customizable styling.
-+ Task Automation: Leveraged Gulp for task automation, streamlining the development process.
++ Custom Styles: Used Tailwind CSS for efficient and customizable styling.
++ Task Automation: Leveraged NextJS streamlining the development process.
 + NodeJS Integration: Integrated NodeJS for enhanced functionality and backend support.
 
 #### Technologies Used:
   + HTML
   + CSS
-  + SASS
-  + Bootstrap
-  + Gulp
+  + React
+  + Tailwind CSS
+  + NextJS
   + NodeJS
   + NPM
+  + API integration
 
 ---
 
