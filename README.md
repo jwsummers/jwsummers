@@ -32,7 +32,9 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
     <img src="https://img.shields.io/badge/-React-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NPM-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NextJS-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Tailwind-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prisma-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
 </div>
 
 ### Network
