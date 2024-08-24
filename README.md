@@ -78,7 +78,18 @@ Empower a small business by providing them with a modern, user-friendly platform
 + Netlify
 + NPM
 
-[Cook-E | Online Recipe Book]
+[Full-stack Web Development Project Template | DevOps](https://github.com/jwsummers/Project-template)
+
+#### Purpose:
+Provide a starting template for a robust full-stack web application process.
+
+#### Technologies Used:
++ Frontend: React, Next.js, Tailwind CSS, TypeScript
++ Backend: Node.js, Express.js, Prisma, PostgreSQL
++ DevOps: Docker, Docker Compose
++ Additional Tools: Git, npm, PostCSS, ESLint, Prettier, .env files, GitHub
+
+[Cook-E | Online Recipe Book](https://github.com/jwsummers/Cook-E)
 
 #### Purpose: 
 Provide users with a secure and user-friendly platform to enter, save, and manage their recipes, ensuring their data is safely stored and easily accessible.
