@@ -1,10 +1,16 @@
 ## Hi there 👋 my name is Jason Summers
 ## Full-Stack Web Developer | Software Engineer
-<a href="https://www.jasonwsummers.com"><img src="https://img.shields.io/badge/-Visit My Website-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.jasonwsummers.com"><img src="https://img.shields.io/badge/-Visit My Website-A020F0?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/jason-w-summers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Passionate Web Developer with a robust background in complex problem-solving, full-stack web development, and cybersecurity concepts. Continuously building a diverse portfolio and committed to leveraging my skills to make a significant impact in the field. Eager to embrace new challenges and dedicated to achieving success through innovation and learning.
+
+---
+### TechTuned Web Design
+<a href="https://www.techtunedwebdesign"><img src="https://img.shields.io/badge/-Visit TechTuned-A020F0?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Building responsive, secure, and user-focused websites and applications for small businesses and entrepreneurs.
 
 ---
 
@@ -27,7 +33,7 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
     <img src="https://img.shields.io/badge/-JavaScript-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NodeJS | ExpressJS-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jest--EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jest-32CD32?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vite-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
@@ -38,14 +44,34 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
 </div>
 
 ---
-### TechTuned Web Design
-<a href="https://www.techtunedwebdesign"><img src="https://img.shields.io/badge/-Visit TechTuned-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Building responsive, secure, and user-focused websites and applications for small businesses and entrepreneurs.
-
----
 ### Software Development Projects
 
+[Smart Monitoring and Resource Tracking (S.M.R.T.)](https://github.com/jwsummers/Smart-Asset-Tracker)  
+[S.M.R.T.](https:///github.com/jwsummers/Smart-Asset-Tracker)
+
+#### Purpose: 
+The **Smart Asset Tracker** is a full-stack web application designed to manage and visualize assets on an interactive map. It utilizes modern web development technologies and provides seamless asset tracking with a user-friendly interface.
+
+- **Asset Management**: Create, retrieve, update, and delete assets.
+- **Interactive Map**: Visualize asset locations on a dynamic map powered by the ArcGIS JavaScript API.
+- **Testing**:
+  - Unit tests and integration tests are implemented using **Jest** for both frontend and backend.
+  - Ensure reliability and robustness by validating critical functionality with automated tests.
+- **Continuous Integration/Continuous Deployment (CI/CD)**:
+  - **GitHub Actions** is used to automate testing and deployment workflows.
+
+#### Technologies Used:
++ React
++ TypeScript
++ bcrypt
++ Node.js
++ Express
++ PostgreSQL
++ Neon
++ Vercel
++ Prisma
+
+---
 [M.A.C.E. | My Auto Care Expert -- Business Website](https://github.com/jwsummers/mace)  
 [MyAutoCareExpert](https://myautocareexpert.com/)
 
@@ -64,6 +90,29 @@ Empower a small business by providing them with a modern, user-friendly platform
 + JavaScript
 + Netlify
 + NPM
+  
+---
+
+[7Million Media -- Business Website](https://github.com/jwsummers/7MillionMedia)  
+[7MillionMedia](https://7millionmedia.com/)
+
+#### Purpose:
+Empower a small business by providing them with a modern, user-friendly platform to increase customer reach, enhance marketing efforts, and streamline appointment scheduling.
+
++ Responsive Design: Created responsive layouts to ensure an optimal experience across all devices.
++ SEO Integration: Applied SEO best practices to improve search engine visibility and attract more visitors.
++ Customizable Content: Developed sections to highlight services, promotions, and business updates.
++ Social Media Integration: Connected with customers and expanded online presence through social media links.
++ Contact Forms: Implemented easy-to-use contact forms to facilitate customer inquiries and feedback.
+
+#### Technologies Used:
++ HTML
++ CSS
++ JavaScript
++ Netlify
++ NPM
+
+---
 
 [Full-stack Web Development Project Template | DevOps](https://github.com/jwsummers/Project-template)
 
@@ -75,6 +124,8 @@ Provide a starting template for a robust full-stack web application process.
 + Backend: Node.js, Express.js, Prisma, PostgreSQL
 + DevOps: Docker, Docker Compose
 + Additional Tools: Git, npm, PostCSS, ESLint, Prettier, .env files, GitHub
+
+---
 
 [Cook-E | Online Recipe Book](https://github.com/jwsummers/Cook-E)
 
@@ -95,6 +146,8 @@ Provide users with a secure and user-friendly platform to enter, save, and manag
 + Express
 + PostgreSQL
 
+---
+
 [Technician Repair Order Management System](https://github.com/jwsummers/labor-tracker)  
 [ROtracker](https://labortracker.netlify.app/)
 
@@ -112,6 +165,8 @@ Facilitate technicians at an automotive shop to input and save repair orders, tr
 + JavaScript
 + Netlify
 
+---
+
 [Tire Calculator Web Application](https://github.com/jwsummers/Tire-Calculator)  
 [T.R.E.D.](https://tred.netlify.app/)
 
@@ -127,6 +182,8 @@ A web application that compares aftermarket and OEM tire sizes and calculates di
   + Javascript
   + Netlify
   + NPM
+
+---
 
 [Personal Portfolio | Resume website](https://github.com/jwsummers/portfolio)  
 [JasonWSummers.com](https://jasonwsummers.com/)
