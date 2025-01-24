@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Jason Summers
-## Web Developer and Software Engineer
-https://jasonwsummers.com/
+## Full-Stack Web Developer | Software Engineer
+<a href="https://www.jasonwsummers.com"><img src="https://img.shields.io/badge/-Visit My Website-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/jason-w-summers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -27,38 +27,23 @@ Passionate Web Developer with a robust background in complex problem-solving, fu
     <img src="https://img.shields.io/badge/-JavaScript-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NodeJS | ExpressJS-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Gulp | Webpack-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest--EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bootstrap-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NPM-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vite-EF3B2D?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-NextJS-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tailwind-1679A7?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Prisma-777BB4?&style=for-the-badge&logo=HTML&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-00A4EF?&style=for-the-badge&logo=HTML&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />    
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
+### TechTuned Web Design
+<a href="https://www.techtunedwebdesign"><img src="https://img.shields.io/badge/-Visit TechTuned-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie.io-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+Building responsive, secure, and user-focused websites and applications for small businesses and entrepreneurs.
 
 ---
-
 ### Software Development Projects
 
 [M.A.C.E. | My Auto Care Expert -- Business Website](https://github.com/jwsummers/mace)  
