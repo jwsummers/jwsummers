@@ -47,7 +47,7 @@ Building responsive, secure, and user-focused websites and applications for smal
 ### Software Development Projects
 
 [Smart Monitoring and Resource Tracking (S.M.R.T.)](https://github.com/jwsummers/Smart-Asset-Tracker)  
-[S.M.R.T.](https:///github.com/jwsummers/Smart-Asset-Tracker)
+[S.M.R.T.](https://smrt-kappa.vercel.app/)
 
 #### Purpose: 
 The **Smart Asset Tracker** is a full-stack web application designed to manage and visualize assets on an interactive map. It utilizes modern web development technologies and provides seamless asset tracking with a user-friendly interface.
