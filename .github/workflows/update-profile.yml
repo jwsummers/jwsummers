@@ -1,0 +1,87 @@
+name: Auto-Update GitHub Profile
+
+on:
+  repository_dispatch:
+    types: [new-repo-added]
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v4
+        with:
+          repository: jwsummers/jwsummers
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch Repo Information
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Fetching latest repo information"
+          curl -H "Authorization: Bearer $GH_TOKEN" \
+            https://api.github.com/users/jwsummers/repos?sort=created \
+            -o repos.json
+
+      - name: Parse Repo Information
+        id: parse_repo
+        run: |
+          LATEST_REPO=$(jq -r '.[0].name' repos.json)
+          REPO_URL=$(jq -r '.[0].html_url' repos.json)
+          DESCRIPTION=$(jq -r '.[0].description' repos.json)
+          LANGUAGES_URL=$(jq -r '.[0].languages_url' repos.json)
+
+          echo "latest_repo=$LATEST_REPO" >> $GITHUB_OUTPUT
+          echo "repo_url=$REPO_URL" >> $GITHUB_OUTPUT
+          echo "description=$DESCRIPTION" >> $GITHUB_OUTPUT
+          echo "languages_url=$LANGUAGES_URL" >> $GITHUB_OUTPUT
+
+      - name: Fetch Languages Used
+        id: fetch_languages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -H "Authorization: Bearer $GH_TOKEN" \
+            ${{ steps.parse_repo.outputs.languages_url }} -o languages.json
+          LANGUAGES=$(jq -r 'keys | join(", ")' languages.json)
+          echo "languages=$LANGUAGES" >> $GITHUB_OUTPUT
+
+      - name: Generate AI Description (Optional)
+        id: ai_description
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          README_URL="https://raw.githubusercontent.com/jwsummers/${{ steps.parse_repo.outputs.latest_repo }}/main/README.md"
+          curl -s $README_URL -o README.md
+          
+          # Simplified call to OpenAI to summarize README content
+          AI_DESCRIPTION=$(curl https://api.openai.com/v1/chat/completions \
+            -H "Authorization: Bearer $OPENAI_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "model": "gpt-3.5-turbo",
+              "messages": [{"role": "user", "content": "Summarize this README:\n\n'"$(cat README.md | head -n 500)"'"}],
+              "max_tokens": 60
+            }' | jq -r '.choices[0].message.content')
+
+          echo "ai_summary=$AI_DESCRIPTION" >> $GITHUB_OUTPUT
+
+      - name: Update Profile README
+        run: |
+          # Template to add new repo details
+          echo "
+          ### [${{ steps.parse_repo.outputs.latest_repo }}](${{ steps.parse_repo.outputs.repo_url }})
+          
+          ${{ steps.ai_description.outputs.ai_summary || steps.parse_repo.outputs.description }}
+
+          **Technologies Used:** ${{ steps.fetch_languages.outputs.languages }}
+
+          ---
+          " >> README.md
+
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update projects showcase: ${{ steps.parse_repo.outputs.latest_repo }}"
+          git push origin main
