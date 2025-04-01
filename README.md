@@ -46,6 +46,10 @@ Building responsive, secure, and user-focused websites and applications for smal
 ---
 ### Software Development Projects
 
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
+
+
 [Smart Monitoring and Resource Tracking (S.M.R.T.)](https://github.com/jwsummers/Smart-Asset-Tracker)  
 [S.M.R.T.](https://smrt-kappa.vercel.app/)
 
@@ -235,17 +239,3 @@ Technologies Used:
   + Keyboard library
 
 
-<!--
-**jwsummers/jwsummers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
