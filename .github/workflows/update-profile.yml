@@ -1,6 +1,7 @@
 name: Auto-Update GitHub Profile
 
 on:
+  workflow_dispatch:         
   repository_dispatch:
     types: [new-repo-added]
 
