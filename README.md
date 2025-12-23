@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jason Summers  
-### Data & Operations Analyst | Root Cause Investigation • SQL • Excel • Process Improvement  
+### Operations & Data Analyst | Root Cause Investigation • Cost & Process Analysis • SQL • Excel  
 <a href="https://www.jasonwsummers.com"><img src="https://img.shields.io/badge/-Portfolio-A020F0?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jason-w-summers/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -7,7 +7,7 @@
 
 I’m Jason — a data-driven problem solver with a background in automotive diagnostics, operational analysis, and process improvement. After 20+ years identifying root causes, analyzing patterns, and improving workflows, I now apply the same mindset to data analytics using SQL, Python, Excel, and Power BI.
 
-I’m drawn to work that involves investigating patterns, understanding *why* something is happening, and turning that into clear, actionable insights. My recent stretch role at CarMax involved reviewing repair orders, identifying labor overcharges, spotting systemic issues, and presenting findings to leadership — work that sparked my transition into analytics.
+I’m drawn to work that involves investigating patterns, understanding *why* something is happening, and turning that into clear, actionable insights. My recent stretch role at CarMax involved reviewing repair orders, identifying labor overcharges, spotting systemic issues, and presenting findings to leadership, work that deepened my focus on analytics-driven operational decision-making.
 
 Here on GitHub, I'm building a portfolio focused on operational data, cost reduction, technician performance, and real-world analytics projects that demonstrate end-to-end thinking: data cleaning → analysis → insights → dashboards.
 
@@ -48,7 +48,7 @@ Full-stack asset tracking tool with database modeling, map integration, and auto
 - Power BI (KPIs, slicers, visuals)
 
 ### **Additional Technical Experience**  
-*(From prior full-stack development work — supporting my analytics skillset)*  
+*(Used to automate analysis, build tools, and support data workflows — not seeking pure software engineering roles)*  
 - JavaScript  
 - React + Next.js  
 - Node.js  
@@ -62,7 +62,7 @@ Full-stack asset tracking tool with database modeling, map integration, and auto
 - CompTIA **Security+**  
 - Google Cybersecurity Professional Certificate  
 - FreeCodeCamp Responsive Web Development  
-- TryHackMe: Intro to Cybersecurity & SOC Level 1  
+Certifications supporting secure data handling, compliance awareness, and analytical rigor  
 
 ---
 
